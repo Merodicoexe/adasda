@@ -1,14 +1,17 @@
 [
   {
     "name": "Kreveta (Default)",
-    "url": "https://raw.githubusercontent.com/Merodicoexe/adasda/refs/heads/main/petset_trust_cau.png"
+    "url": "https://i.imgur.com/KxJ4G3T.png",
+    "color": "#ff0044" 
   },
   {
     "name": "Mike",
-    "url": "https://raw.githubusercontent.com/Merodicoexe/adasda/refs/heads/main/togif.png"
+    "url": "https://i.imgur.com/example2.png",
+    "color": "#00ffcc"
   },
   {
     "name": "Trakxon",
-    "url": "https://raw.githubusercontent.com/Merodicoexe/adasda/refs/heads/main/togifd.png"
+    "url": "https://i.imgur.com/example3.png",
+    "color": "#ffaa00"
   }
 ]
